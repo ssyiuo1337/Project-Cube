@@ -70,10 +70,6 @@ Follow these simple steps to get started with Fabric on **TL Launcher** and **TL
 4. Click **“Install”** to proceed with the installation of Fabric.
 5. After installation, you'll be able to join your Fabric-powered server and enjoy the mods!
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
-Thanks for checking out the **Fabric Server Mods** project! If you have any questions or issues, feel free to open an issue or contribute to the repository. Enjoy your gaming experience! 🎮
+Thanks for checking out the **Project "Cube" Mods**! Enjoy your gaming experience! 🎮
