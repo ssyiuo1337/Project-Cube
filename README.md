@@ -1,14 +1,14 @@
 # 🛠️ Fabric Server Mods
 
-Welcome to the official repository of the **Fabric Server Mods** project! This repository contains a curated list of mods for Minecraft servers using the Fabric modding platform. Whether you're setting up your first Fabric server or upgrading an existing one, this guide will help you get started.
+Welcome to the official repository of the **Project "Cube"**! This repository contains a curated list of mods for Minecraft servers using the Fabric. Whether you're setting up your first Fabric server or upgrading an existing one, this guide will help you get started.
 
 ## 📦 Mods Overview
 
 ### 🔄 **Mods Previously on Forge**
 
-Here is a list of mods that were previously available for Forge but have now been ported to Fabric:
+Here is a list of mods that were previously available for Forge:
 
-1. **[Mod Name 1](link)** – Short description of the mod.
+1. **Underground Villages** – With this mod you'll able to find an underground variant of the villages that are normally above ground. There's no guarantee that the villagers are still alive when you get to the village as caves aren't exactly the safest place for the villagers to be.
 2. **[Mod Name 2](link)** – Short description of the mod.
 3. **[Mod Name 3](link)** – Short description of the mod.
 
