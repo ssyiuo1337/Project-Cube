@@ -30,7 +30,7 @@ Here is a list of mods that were previously available for Forge:
 
 ### ⚡ **Current Fabric Mods**
 
-These mods are built for Fabric and are fully supported:
+These are new mods created for Fabric and are fully supported:
 
 1. **[Mod Name 4](link)** – Short description of the mod.
 2. **[Mod Name 5](link)** – Short description of the mod.
