@@ -32,9 +32,20 @@ Here is a list of mods that were previously available for Forge:
 
 These are new mods created for Fabric and are fully supported:
 
-1. **[Mod Name 4](link)** – Short description of the mod.
-2. **[Mod Name 5](link)** – Short description of the mod.
-3. **[Mod Name 6](link)** – Short description of the mod.
+1. **Emotecraft** – Emotecraft is a mod that adds emote/animations to the game.
+2. **Fabric API** – Fabric API is a library of essential hooks and interoperability mechanisms designed to help modders make their mods easier to use and more compatible with other mods.
+3. **Libraryferret** – The mod essentially adds toolkits to help us create our experiences. In the past it has added items and blocks, but only the “coins” items will be retained in the next version.
+4. **Moborigins** - Mob Origins is an addon to the Origins mod, which adds 9 new origins, all themed around different mobs. Each one having unique abilities.
+5. **Origins** - Choose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay.
+6. **Philips-Ruins** - This is achieved by blending the ruin with the terrain instead of having a rigid drop-off at the end of a structure, which is common in most mods during rough terrain generation.
+7. **Plasmovoice** - A proximity voice chat mod with audio positioning and lots of features.
+8. **Player-animation-lib** - Player Animation Library is a mod that allows you to animate players in Minecraft.
+9. **Puffish attributes** - Puffish Attributes is a mod that adds a lot of attributes to the game.
+10. **Puffish skills** - Puffish Skills is a mod that adds a lot of skills to the game.
+11. **Spell engine** - Spell Engine is a mod that adds spells to the game.
+12. **Spell power** - Spell Power is a mod that adds spells to the game.
+13. **Spell engine** - Spell Engine is a mod that adds spells to the game.
+14. **cloth-config** - Cloth Config is a mod that allows you to configure your mods in a more user-friendly way.
 
 > **Note:** Make sure to always check for updates and compatibility with the latest versions of Minecraft and Fabric!
 
