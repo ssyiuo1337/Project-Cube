@@ -51,12 +51,12 @@ These are new mods created for Fabric and are fully supported:
 
 ## 🔧 Installation Guide
 
-Follow these simple steps to get started with Fabric on **TL Launcher** and **TLauncher**.
+Follow these simple steps to get started with Fabric on **Legacy Launcher** and **TLauncher**.
 
-### 📝 **Installing Fabric on TL Launcher**
+### 📝 **Installing Fabric on  Legacy Launcher**
 
-1. **Download and Install TL Launcher** if you haven't already: [TL Launcher Website](https://llaun.ch/ru).
-2. **Launch TL Launcher** and go to version selection.
+1. **Download and Install Legacy Launcher** if you haven't already: [Legacy Launcher Website](https://llaun.ch/ru).
+2. **Launch Legacy Launcher** and go to version selection.
 4. In the **version** section, select **Fabric 1.20.1** (you may need to download it if it's not available).
 5. Click **“Install”** to complete the installation.
 6. Navigate to the mods folder:  
