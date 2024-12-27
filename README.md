@@ -32,20 +32,25 @@ Here is a list of mods that were previously available for Forge:
 
 These are new mods created for Fabric and are fully supported:
 
-1. **Emotecraft** – Emotecraft is a mod that adds emote/animations to the game.
-2. **Fabric API** – Fabric API is a library of essential hooks and interoperability mechanisms designed to help modders make their mods easier to use and more compatible with other mods.
-3. **Libraryferret** – The mod essentially adds toolkits to help us create our experiences. In the past it has added items and blocks, but only the “coins” items will be retained in the next version.
-4. **Moborigins** - Mob Origins is an addon to the Origins mod, which adds 9 new origins, all themed around different mobs. Each one having unique abilities.
-5. **Origins** - Choose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay.
-6. **Philips-Ruins** - This is achieved by blending the ruin with the terrain instead of having a rigid drop-off at the end of a structure, which is common in most mods during rough terrain generation.
-7. **Plasmovoice** - A proximity voice chat mod with audio positioning and lots of features.
-8. **Player-animation-lib** - Player Animation Library is a mod that allows you to animate players in Minecraft.
-9. **Puffish attributes** - Puffish Attributes is a mod that adds a lot of attributes to the game.
-10. **Puffish skills** - Puffish Skills is a mod that adds a lot of skills to the game.
-11. **Spell engine** - Spell Engine is a mod that adds spells to the game.
-12. **Spell power** - Spell Power is a mod that adds spells to the game.
-13. **Spell engine** - Spell Engine is a mod that adds spells to the game.
-14. **cloth-config** - Cloth Config is a mod that allows you to configure your mods in a more user-friendly way.
+1. **Cloth Config** – Provides a simple and powerful configuration library for mods to manage their settings.  
+2. **Default Skill Trees** – Adds default skill trees to the game, enhancing player progression and customization.  
+3. **Emotecraft** – Adds emotes to the game, allowing players to express themselves with fun animations.  
+4. **Fabric API** – The core library required for most Fabric mods, ensuring compatibility and functionality.  
+5. **Iris Shaders** – Adds support for shaders, enabling stunning visual enhancements for the game.  
+6. **Library Ferret** – A library mod required for running some other mods, ensuring compatibility and functionality.  
+7. **Mob Origins** – Introduces new origins with unique powers and gameplay styles focused on mobs.  
+8. **Origins** – Adds a selection of origin abilities that grant players unique powers and playstyles.  
+9. **Philip's Ruins** – Expands the world generation with intricate ruins for players to explore.  
+10. **Plasmo Voice** – Adds proximity-based voice chat for multiplayer servers.  
+11. **Player Animation Library** – Provides animations for player actions, enhancing visual immersion.  
+12. **Puffish Attributes** – Enhances player attributes and stats for a more dynamic gameplay experience.  
+13. **Puffish Skills** – Introduces a skill system to enhance your character's abilities and progression.  
+14. **Simple Seasons** – Adds seasonal changes to the game, making the environment more immersive and dynamic.  
+15. **Sodium** – Optimizes game performance with advanced rendering techniques, improving FPS significantly.  
+16. **Spell Engine** – Adds a robust magic system, including spells and wands, to the game.  
+17. **Spell Power** – Enhances the Spell Engine mod by adding more spell options and mechanics.  
+18. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.  
+19. **Yet Another Config Library** – Provides an easy-to-use configuration library for mod developers.  
 
 > **Note:** Be sure to always check for updates and compatibility with the latest build versions!
 
