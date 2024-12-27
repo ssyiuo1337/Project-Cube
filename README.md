@@ -1,24 +1,8 @@
 # 🛠️ Fabric Server Mods
 
-**Добро пожаловать в официальный репозиторий проекта Project "Cube"!** Этот репозиторий содержит тщательно подобранный список модов для сервера Minecraft.
+Welcome to the official repository of the **Fabric Server Mods** project! This repository contains a curated list of mods for Minecraft servers using the Fabric modding platform. Whether you're setting up your first Fabric server or upgrading an existing one, this guide will help you get started.
 
-
-## 📦 Mods 📦
- **Default skill trees**
-   Emotecraft
-   Fabric API
-   Libraryferret
-   Moborigins
-   Origins
-   Philips-Ruins
-   Plasmovoice
-   Player-animation-lib
-   Puffish attributes
-   Puffish skills
-   Spell engine
-   Spell power
-   cloth config**
-##
+## 📦 Mods Overview
 
 ### 🔄 **Mods Previously on Forge**
 
@@ -41,6 +25,15 @@ These mods are built for Fabric and are fully supported:
 ## 🔧 Installation Guide
 
 Follow these simple steps to get started with Fabric on **TL Launcher** and **TLauncher**.
+
+### 📝 **Installing Fabric on TL Launcher**
+
+1. **Download and Install TL Launcher** if you haven't already: [TL Launcher Website](https://tlauncher.org).
+2. **Launch TL Launcher** and go to the settings.
+3. Under the **“Installations”** tab, click **“Create”**.
+4. In the **version** section, select **Fabric** (you may need to download it if it's not available).
+5. Click **“Create”** to complete the installation.
+6. Once done, you can start playing with Fabric mods on your server!
 
 ### 📝 **Installing Fabric on TLauncher**
 
