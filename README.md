@@ -47,7 +47,7 @@ These are new mods created for Fabric and are fully supported:
 13. **Spell engine** - Spell Engine is a mod that adds spells to the game.
 14. **cloth-config** - Cloth Config is a mod that allows you to configure your mods in a more user-friendly way.
 
-> **Note:** Make sure to always check for updates and compatibility with the latest versions of Minecraft and Fabric!
+> **Note:** Be sure to always check for updates and compatibility with the latest build versions!
 
 ## 🔧 Installation Guide
 
@@ -55,21 +55,26 @@ Follow these simple steps to get started with Fabric on **TL Launcher** and **TL
 
 ### 📝 **Installing Fabric on TL Launcher**
 
-1. **Download and Install TL Launcher** if you haven't already: [TL Launcher Website](https://tlauncher.org).
-2. **Launch TL Launcher** and go to the settings.
-3. Under the **“Installations”** tab, click **“Create”**.
-4. In the **version** section, select **Fabric** (you may need to download it if it's not available).
-5. Click **“Create”** to complete the installation.
-6. Once done, you can start playing with Fabric mods on your server!
+1. **Download and Install TL Launcher** if you haven't already: [TL Launcher Website](https://llaun.ch/ru).
+2. **Launch TL Launcher** and go to version selection.
+4. In the **version** section, select **Fabric 1.20.1** (you may need to download it if it's not available).
+5. Click **“Install”** to complete the installation.
+6. Navigate to the mods folder:  
+   - Open **File Explorer** and go to: `C:\Users\User\AppData\Roaming\.tlauncher\legacy\Minecraft\game\mods`.  
+7. Copy the mods from the provided archive into this folder.
+8. Once done, you can start playing with Fabric mods on your server!
 
 ### 📝 **Installing Fabric on TLauncher**
 
 1. **Download and Install TLauncher** from [TLauncher Website](https://tlauncher.org).
-2. Open **TLauncher** and navigate to the **“Settings”** section.
-3. Select **“Fabric”** from the available profiles.
+2. Open **TLauncher** and go to version selection.
+3. Select **“Fabric 1.20.1”** from the available profiles.
 4. Click **“Install”** to proceed with the installation of Fabric.
-5. After installation, you'll be able to join your Fabric-powered server and enjoy the mods!
+5. Navigate to the mods folder:  
+   - Open **File Explorer** and go to: `C:\Users\User\AppData\Roaming\.minecraft\mods`.  
+6. Copy the mods from the provided archive into this folder.
+7. After installation, you'll be able to join your Fabric-powered server and enjoy the mods!
 
 ---
 
-Thanks for checking out the **Project "Cube" Mods**! Enjoy your gaming experience! 🎮
+Thanks for checking out the **Project "Cube"**! If you have any questions or issues, feel free to open an issue or contribute to the repository. Enjoy your gaming experience! 🎮
