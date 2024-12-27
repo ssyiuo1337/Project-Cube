@@ -8,9 +8,25 @@ Welcome to the official repository of the **Project "Cube"**! This repository co
 
 Here is a list of mods that were previously available for Forge:
 
-1. **Underground Villages** – With this mod you'll able to find an underground variant of the villages that are normally above ground. There's no guarantee that the villagers are still alive when you get to the village as caves aren't exactly the safest place for the villagers to be.
-2. **[Mod Name 2](link)** – Short description of the mod.
-3. **[Mod Name 3](link)** – Short description of the mod.
+1. **AttributeFix** – Fixes attribute bugs and allows stacking of attribute modifiers beyond vanilla limitations.
+2. **Better Villages** – Improves village generation, making them larger, more dynamic, and visually appealing.
+3. **Caelus** – Adds an API for mod developers to create new flight mechanics and interact with elytra functionality.
+4. **Curios** – Provides a flexible inventory system for items like rings, amulets, and other curiosities.
+5. **Elysium API** – A utility mod that provides shared functionality and tools for other mods.
+6. **Emotecraft** – Adds emotes to the game, allowing players to express themselves with animations.
+7. **Framework** – A modding framework that simplifies the creation of complex mods.
+8. **Guard Villagers** – Adds new guard villagers who protect villages from hostile mobs.
+9. **Hopobetter Underwater Ruins** – Enhances underwater ruins by adding new designs, treasures, and challenges.
+10. **Item Production Lib** – Provides tools for creating complex item production systems for modders.
+11. **Jaden's Nether Expansion** – Expands the Nether dimension with new biomes, mobs, and structures.
+12. **Library Ferret** – A library mod required for running some other mods, ensuring compatibility and functionality.
+13. **MidnightLib** – A library mod providing tools for GUI development and general mod utilities.
+14. **Origins** – Adds a selection of origin abilities that grant players unique powers and playstyles.
+15. **Passive Skill Tree** – Adds a skill tree system for players to enhance their abilities and gameplay.
+16. **Plasmo Voice** – Adds proximity-based voice chat for multiplayer servers.
+17. **Player Animation Library** – Provides animations for player actions, enhancing visual immersion.
+18. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.
+19. **Underground Villages** – Introduces an underground variant of villages, with a unique and challenging environment.
 
 ### ⚡ **Current Fabric Mods**
 
