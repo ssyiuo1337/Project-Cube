@@ -1,4 +1,4 @@
-# 🛠️ Fabric Server Mods
+# 🛠️ Project "Cube" Mods
 
 Welcome to the official repository of the **Project "Cube"**! This repository contains a curated list of mods for Minecraft servers using the Fabric. Whether you're setting up your first Fabric server or upgrading an existing one, this guide will help you get started.
 
