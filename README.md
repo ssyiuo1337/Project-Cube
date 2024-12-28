@@ -46,7 +46,8 @@ These are new mods created for Fabric and are fully supported:
 12. **Puffish Skills** – Introduces a skill system to enhance your character's abilities and progression.  
 13. **Spell Engine** – Adds a robust magic system, including spells and wands, to the game.  
 14. **Spell Power** – Enhances the Spell Engine mod by adding more spell options and mechanics.  
-15. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.  
+15. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.
+16. **Female Gender Mod** – Adds the ability to select a female character model, enhancing customization and immersion in the game.
 
 > **Note:** Be sure to always check for updates and compatibility with the latest build versions!
 > The release build also contains **Sodium** and **Iris Shaders** you can remove them if you don't need them.
