@@ -51,7 +51,7 @@ These are new mods created for Fabric and are fully supported:
 17. **Yet Another Config Library** – Provides an easy-to-use configuration library for mod developers.  
 
 > **Note:** Be sure to always check for updates and compatibility with the latest build versions!
-> **Note:** The release build also contains **Sodium** and **Iris Shaders** you can remove them if you don't need them.
+> The release build also contains **Sodium** and **Iris Shaders** you can remove them if you don't need them.
 
 ## 🔧 Installation Guide
 
