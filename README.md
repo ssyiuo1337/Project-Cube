@@ -1,36 +1,39 @@
 # 🛠️ Project "Cube" Mods
 
-Welcome to the official repository of the **Project "Cube"**! This repository contains a curated list of mods for Minecraft servers using the Fabric. Whether you're setting up your first Fabric server or upgrading an existing one, this guide will help you get started.
+Welcome to the official repository of **Project "Cube"**! This repository contains curated lists of mods for Minecraft servers using both **Fabric** and **Forge**.
 
 ## 📦 Mods Overview
 
-### 🔄 **Mods Previously on Forge**
+### 🔄 **Current Forge Mods**
 
-Here is a list of mods that were previously available for Forge:
+Here is a list of mods that are currently available for Forge:
 
-1. **AttributeFix** – Fixes attribute bugs and allows stacking of attribute modifiers beyond vanilla limitations.
-2. **Better Villages** – Improves village generation, making them larger, more dynamic, and visually appealing.
-3. **Caelus** – Adds an API for mod developers to create new flight mechanics and interact with elytra functionality.
-4. **Curios** – Provides a flexible inventory system for items like rings, amulets, and other curiosities.
-5. **Elysium API** – A utility mod that provides shared functionality and tools for other mods.
-6. **Emotecraft** – Adds emotes to the game, allowing players to express themselves with animations.
-7. **Framework** – A modding framework that simplifies the creation of complex mods.
-8. **Guard Villagers** – Adds new guard villagers who protect villages from hostile mobs.
-9. **Hopobetter Underwater Ruins** – Enhances underwater ruins by adding new designs, treasures, and challenges.
-10. **Item Production Lib** – Provides tools for creating complex item production systems for modders.
-11. **Jaden's Nether Expansion** – Expands the Nether dimension with new biomes, mobs, and structures.
-12. **Library Ferret** – A library mod required for running some other mods, ensuring compatibility and functionality.
-13. **MidnightLib** – A library mod providing tools for GUI development and general mod utilities.
-14. **Origins** – Adds a selection of origin abilities that grant players unique powers and playstyles.
-15. **Passive Skill Tree** – Adds a skill tree system for players to enhance their abilities and gameplay.
-16. **Plasmo Voice** – Adds proximity-based voice chat for multiplayer servers.
-17. **Player Animation Library** – Provides animations for player actions, enhancing visual immersion.
-18. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.
-19. **Underground Villages** – Introduces an underground variant of villages, with a unique and challenging environment.
+1. **AttributeFix** – Resolves attribute issues and expands attribute limits.
+2. **Better Village** – Enhances village generation and structure designs.
+3. **Caelus API** – Adds support for elytra-related mechanics and custom flight.
+4. **Curios API** – Introduces a flexible and expandable accessory system.
+5. **Elysium API** – A foundational library for Elysium-related mods.
+6. **EmoteCraft** – Adds customizable emotes for players.
+7. **Framework** – A modding framework for Forge mods.
+8. **Guard Villagers** – Improves villager defense by introducing guard villagers.
+9. **Better Underwater Ruins** – Enhances underwater ruin generation with improved designs.
+10. **Item Production Library** – A library mod that simplifies item production mechanics.
+11. **Jaden's Nether Expansion** – Expands the Nether with new biomes, mobs, and structures.
+12. **Library Ferret** – A utility library for various mods.
+13. **MidnightLib** – Provides utility functions for Midnight mods.
+14. **Origins (Forge)** – Adds unique origins that provide players with special abilities and challenges.
+15. **Passive Skill Tree** – Introduces a passive skill tree system for character progression.
+16. **Plasmo Voice** – Enables in-game voice chat for players.
+17. **Player Animation Library** – Adds smooth and dynamic player animations.
+18. **Takes a Pillage** – Enhances pillager mechanics and raids.
+19. **Underground Villages** – Introduces an underground variant of villages with unique environments.
+
+> **Note:** Be sure to always check for updates and compatibility with the latest build versions!
+> The release build also contains **Rubidium** and **Oculus** you can remove them if you don't need them.
 
 ### ⚡ **Current Fabric Mods**
 
-These are new mods created for Fabric and are fully supported:
+Here is a list of mods that are currently available for Fabric:
 
 1. **Cloth Config** – Provides a simple and powerful configuration library for mods to manage their settings.  
 2. **Default Skill Trees** – Adds default skill trees to the game, enhancing player progression and customization.  
