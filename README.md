@@ -51,6 +51,7 @@ Here is a list of mods that are currently available for Fabric:
 14. **Spell Power** – Enhances the Spell Engine mod by adding more spell options and mechanics.  
 15. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.
 16. **Female Gender Mod** – Adds the ability to select a female character model, enhancing customization and immersion in the game.
+17. **Hammer Mod (Coded by pat1fai and ukm4ks)** – Adds new hammers that mine a 3x3 area, making resource gathering and building faster and more efficient.
 
 > **Note:** Be sure to always check for updates and compatibility with the latest build versions!
 > The release build also contains **Sodium** and **Iris Shaders** you can remove them if you don't need them.
