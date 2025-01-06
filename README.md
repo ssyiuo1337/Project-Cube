@@ -1,35 +1,8 @@
 # 🛠️ Project "Cube" Mods
 
-Welcome to the official repository of **Project "Cube"**! This repository contains curated lists of mods for Minecraft servers using both **Fabric** and **Forge**.
+Welcome to the official repository of **Project "Cube"**! This repository contains curated lists of mods for Minecraft servers using both **Fabric**.
 
 ## 📦 Mods Overview
-
-### 🔄 **Current Forge Mods**
-
-Here is a list of mods that are currently available for Forge:
-
-1. **AttributeFix** – Resolves attribute issues and expands attribute limits.
-2. **Better Village** – Enhances village generation and structure designs.
-3. **Caelus API** – Adds support for elytra-related mechanics and custom flight.
-4. **Curios API** – Introduces a flexible and expandable accessory system.
-5. **Elysium API** – A foundational library for Elysium-related mods.
-6. **EmoteCraft** – Adds customizable emotes for players.
-7. **Framework** – A modding framework for Forge mods.
-8. **Guard Villagers** – Improves villager defense by introducing guard villagers.
-9. **Better Underwater Ruins** – Enhances underwater ruin generation with improved designs.
-10. **Item Production Library** – A library mod that simplifies item production mechanics.
-11. **Jaden's Nether Expansion** – Expands the Nether with new biomes, mobs, and structures.
-12. **Library Ferret** – A utility library for various mods.
-13. **MidnightLib** – Provides utility functions for Midnight mods.
-14. **Origins (Forge)** – Adds unique origins that provide players with special abilities and challenges.
-15. **Passive Skill Tree** – Introduces a passive skill tree system for character progression.
-16. **Plasmo Voice** – Enables in-game voice chat for players.
-17. **Player Animation Library** – Adds smooth and dynamic player animations.
-18. **Takes a Pillage** – Enhances pillager mechanics and raids.
-19. **Underground Villages** – Introduces an underground variant of villages with unique environments.
-
-> **Note:** Be sure to always check for updates and compatibility with the latest build versions!
-> The release build also contains **Rubidium** and **Oculus** you can remove them if you don't need them.
 
 ### ⚡ **Current Fabric Mods**
 
